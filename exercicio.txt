@@ -1,0 +1,12 @@
+Crime um algoritmo para calcular a media de um aluno que estuda semestralmente.
+
+Descrição narrativa
+1. início
+2. criar variáveis nota1, nota2, media;
+3. escreva("Entre com a nota 1");
+4. leia nota1;
+5. escreva("Entre com a nota 1");
+6. leia nota2;
+7. calcular media <-- (nota1+nota2)/2;
+8. escreva("A média é ", media);
+9. fim
