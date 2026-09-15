@@ -10,3 +10,7 @@ Descrição narrativa
 7. calcular media <-- (nota1+nota2)/2;
 8. escreva("A média é ", media);
 9. fim
+
+
+//Crie um pgm que calcule a média de um aluno que estuda semestralmente e verifique
+//se a média é maior que seis. Caso seja, exibir "Aprovado"
